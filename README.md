@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @birhaney
+- 👋 Hi, I’m Gebremedhin
 - 👀 I’m interested in AI, machine learning, deep learning, NLP, Bioinformatics
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on computer vision, NLP, Bioinformatics
