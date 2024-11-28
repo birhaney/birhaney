@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gebremedhin
 - 👀 I’m interested in AI, machine learning, deep learning, NLP, Bioinformatics
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently a mster's student  at central south university
 - 💞️ I’m looking to collaborate on computer vision, NLP, Bioinformatics
 - 📫 How to reach me ...
 
